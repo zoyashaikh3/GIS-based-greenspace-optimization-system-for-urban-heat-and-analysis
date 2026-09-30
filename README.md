@@ -1,5 +1,11 @@
 # 🌍 GreenScape AI — GIS-Based Green-Space Optimization System for Urban Heat & Analysis
 
+> 🚀 **The project is running on:**  
+> 👉 **Server Link:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)  
+> 📊 **Analytics Dashboard Link:** [http://127.0.0.1:8000/dashboard.html](http://127.0.0.1:8000/dashboard.html)
+
+---
+
 ### 🔍 Overview
 
 **GreenScape AI (GEO-Greenspace)** is an advanced GIS-based web platform engineered to analyze urban environmental microclimates, model Urban Heat Island (UHI) effects, and optimize urban green-space distribution for sustainable city planning. 
@@ -8,12 +14,11 @@ Rapid urbanization and expanding impervious surfaces create significant temperat
 
 ---
 
-### 🌐 Live Application Running
+### 🌐 Live Server Status
 
-> **Project is running on 👉 http://127.0.0.1:8000/**
-
-- 🌍 **Main GIS Platform**: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-- 📊 **Analytics Dashboard**: [http://127.0.0.1:8000/dashboard.html](http://127.0.0.1:8000/dashboard.html)
+> 🚀 **The project is running on:**  
+> 👉 **Server Link:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)  
+> 📊 **Analytics Dashboard:** [http://127.0.0.1:8000/dashboard.html](http://127.0.0.1:8000/dashboard.html)
 
 ---
 
