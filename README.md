@@ -1,8 +1,6 @@
 # 🌍 GreenScape AI — GIS-Based Green-Space Optimization System for Urban Heat & Analysis
 
-> 🚀 **The project is running on:**  
-> 👉 **Server Link:** [http://127.0.0.1:8000/](http://127.0.0.1:8000/)  
-> 📊 **Analytics Dashboard Link:** [http://127.0.0.1:8000/dashboard.html](http://127.0.0.1:8000/dashboard.html)
+
 
 ---
 
